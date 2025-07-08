@@ -1,0 +1,56 @@
+/* Fundo suave */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Título */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+/* Parágrafo */
+p {
+    font-size: 18px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+/* Lista */
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Imagem com borda arredondada */
+img {
+    border-radius: 10px;
+    width: 200px;
+    height: auto;
+}
+
+/* Tabela estilizada */
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Link com efeito hover */
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff6347;
+}
